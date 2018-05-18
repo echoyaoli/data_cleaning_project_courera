@@ -16,6 +16,8 @@ The project contains following files:
 2. 'run_analysis.R' - R script of the analysis
 
 3. 'README.txt' 
+
+4. 'YaoLI_df_average_tidy.txt'
 ======================================================================
 
 The data analysis has been carried out using 'UCI HAR Dataset' data. First, the zip file was downloaded. I read the 'README' file from the folder, and get a general idea about what this data is about and what information is included. Second, I found what file need to read into R to accomplish the requirement of the project. Therefore the picked data files were read in to R. Then I begun the analysis.
