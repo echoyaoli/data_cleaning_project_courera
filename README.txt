@@ -6,7 +6,7 @@ shuieryao@hotmail.com
 ======================================================================
 
 Data:
-The data for the project (downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+The data for the project was downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 ======================================================================
 
 The project contains following files:
@@ -17,10 +17,10 @@ The project contains following files:
 
 3. 'README.txt' 
 
-4. 'YaoLI_df_average_tidy.txt'
+4. 'YaoLI_df_average_tidy.txt'-tidy data submitted
 ======================================================================
 
-The data analysis has been carried out using 'UCI HAR Dataset' data. First, the zip file was downloaded. I read the 'README' file from the folder, and get a general idea about what this data is about and what information is included. Second, I found what file need to read into R to accomplish the requirement of the project. Therefore the picked data files were read in to R. Then I begun the analysis.
+The data analysis has been carried out using 'UCI HAR Dataset' data. First, the zip file was downloaded. I read the 'README' file from the folder, and get a general idea about what this data is about and what information is included. Second, I found what file need to read into R to accomplish the requirement of the project. Therefore the picked data files were read into R. Then I begun the analysis.
 ======================================================================
 
 Analysis process:
